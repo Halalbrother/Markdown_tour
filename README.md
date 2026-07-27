@@ -19,5 +19,5 @@ This part has some `variable` inline code.
 A praagraph example
 ```
 
-![lat text](https://mitt.ca/201/201)}
+![lat text](https://mitt.ca/wp-content/uploads/mittt-logo-1.svg)}
 > This a block code, and you need to start the line with a ''>''
