@@ -16,6 +16,7 @@ This part has some `variable` inline code.
 
 
 ```html
-<p> A praagraph example</p.
+A praagraph example
 ```
+
 ![lat text](https://picsum.photos/201/201)
