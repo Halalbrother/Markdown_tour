@@ -11,3 +11,10 @@ Let start with line (-)
  l. ineer number maybe??
 
 [CLick at this link](https://www.linkedin.com/in/saifqureshii/)
+
+This part has some `variable` inline code.
+
+
+```html
+<p> A praagraph example</p.
+![lat text](https://picsum.photos/201/201)
