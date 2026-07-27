@@ -21,3 +21,13 @@ A praagraph example
 
 ![lat text](https://mitt.ca/wp-content/uploads/mittt-logo-1.svg)
 > This a block code, and you need to start the line with a ''>''
+
+##Time to make a table
+
+| Name  | Department  | title |
+| ---  | --- | --- |
+| Saif | IT | Senior sys admin |
+| Victor | ICT | Instructor |
+| Ryan | IT | IT admin |
+|#Kate | Gamer | Something cool |
+|##josh | Programmer | Software Dev |
